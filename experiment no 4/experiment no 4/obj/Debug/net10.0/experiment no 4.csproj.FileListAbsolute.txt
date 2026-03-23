@@ -1,0 +1,14 @@
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\bin\Debug\net10.0\experiment no 4.exe
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\bin\Debug\net10.0\experiment no 4.deps.json
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\bin\Debug\net10.0\experiment no 4.runtimeconfig.json
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\bin\Debug\net10.0\experiment no 4.dll
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\bin\Debug\net10.0\experiment no 4.pdb
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\obj\Debug\net10.0\experiment no 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\obj\Debug\net10.0\experiment no 4.AssemblyInfoInputs.cache
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\obj\Debug\net10.0\experiment no 4.AssemblyInfo.cs
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\obj\Debug\net10.0\experiment no 4.csproj.CoreCompileInputs.cache
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\obj\Debug\net10.0\experiment no 4.dll
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\obj\Debug\net10.0\refint\experiment no 4.dll
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\obj\Debug\net10.0\experiment no 4.pdb
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\obj\Debug\net10.0\experiment no 4.genruntimeconfig.cache
+C:\Users\Yash\source\repos\experiment no 4\experiment no 4\obj\Debug\net10.0\ref\experiment no 4.dll
