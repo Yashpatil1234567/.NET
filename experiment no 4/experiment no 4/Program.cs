@@ -73,7 +73,7 @@ class Program
 */
 
 // 3) activity 3 : repace method with lambda expression 
-
+/*
 class Program
 {
     // delegate declaration
@@ -101,13 +101,56 @@ class Program
 
     }
 }
+*/
 
 // 4):solve list using lambda expression 
 
+using System;
+using System.Collections.Generic;
 
+class Program
+{
+    static void Main()
+    {
+        List<int> list = new List<int> { 5, 2, 8, 1, 3 };
 
+        // Sort using lambda (ascending)
+        list.Sort((a, b) => a.CompareTo(b));
 
-
+        Console.WriteLine(string.Join(", ", list));
+        // Sort using lambda (descending)
+        list.Sort((a, b) => b.CompareTo(a));
+        Console.WriteLine(string.Join(", ", list));
+    }
+}
 
 // 5)where we use lambda and deligate used in company level and why 
+
+//Lambdas and delegates are used in corporate software development (primarily C#/.NET) to write concise,
+//functional-style code, specifically for filtering data (LINQ).
+//handling events (e.g., UI button clicks), defining asynchronous callbacks .
+// executing inline logic without needing a separate named method
 //6)what is LINQ queries
+
+
+
+
+//23-03-2026
+
+//what is MVC : model view control
+
+// mvc is design pattern used to develop scalable web appplication
+// it seprates application into three different responsibilities
+//they are Model View control(http request ) - it is brain of mvc  
+
+// model - it is a data layer and it represents application data and buisness logic . 
+//view - UI layer and it is responsible for displaying data to user and also for user interaction
+//controller - handles user request and application flow . and it connect model and view.
+
+
+
+
+
+
+
+

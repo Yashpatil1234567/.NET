@@ -1,0 +1,40 @@
+EF - it is a tool in . NET to workwith database using c# code instead of SQL queries .
+example : store room like database , manual work -
+EF automatically covert c # code into SQL query 
+EF removes needs of writing sql query manually 
+it allows developers to interact with database using object 
+
+why we use EF ?
+    without EF write SQL query manually more chance to error , time consuming 
+
+    less code , easy to maintain , fast developement
+     without EF = select * from student where id = 1
+     with EF = context.students .find(1)
+
+(EF4) - it is latest , light weight , cross platform version 
+it is a modern version of EF that works on windows , os ,mac
+
+ORM - object relational mapping 
+    it maps c# classes to database table and object to row 
+    
+
+coding approach :
+ there are two types -> 1) code first 2) database first 
+
+ (1)code first : start with coding and database created automatically . 
+ (2)database first : generate database class from db 
+
+ DB context is a main class it connects your application with database
+ ex. publicDbSet(<student>) students {get,set}
+--------------------------------------------------------------------------------------
+ what is db set : represent table in database 
+------------------------------------------------------------------------------------------
+what is Migration : migration is used to create or update database structure automatically
+
+ACTIVITY :
+------------------------------------------------------------------------------------
+what is CURD operations ?
+what is HTTP operations ?
+
+
+
