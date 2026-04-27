@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "keuVwE7GwIo=",
+  "success": true,
+  "projectFilePath": "E:\\ADN\\ADN Work\\.NET\\Experiment no 10\\Login_catching\\Login_catching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yash\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Yash\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

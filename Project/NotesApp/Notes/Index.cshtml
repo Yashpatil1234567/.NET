@@ -1,0 +1,27 @@
+@page
+@model NotesApp.Pages.Notes.IndexModel
+
+<h2>My Notes</h2>
+
+<a href="/Notes/Create">Add Note</a>
+
+<table border="1">
+    <tr>
+        <th>Title</th>
+        <th>Category</th>
+        <th>Date</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var n in Model.Notes)
+    {
+        <tr>
+            <td>@n.Title</td>
+            <td>@n.Category</td>
+            <td>@n.CreatedAt</td>
+            <td>
+                <a href="/Notes/Delete?id=@n.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

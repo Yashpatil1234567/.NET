@@ -1,0 +1,17 @@
+@page
+@model NotesApp.Pages.Notes.CreateModel
+
+<h2>Add Note</h2>
+
+<form method="post">
+    <input type="text" asp-for="Title" placeholder="Title" /><br />
+    <textarea asp-for="Content" placeholder="Content"></textarea><br />
+
+    <select asp-for="Category">
+        <option>Study</option>
+        <option>Ideas</option>
+        <option>Tasks</option>
+    </select><br />
+
+    <button type="submit">Save</button>
+</form>

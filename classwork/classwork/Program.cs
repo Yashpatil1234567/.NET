@@ -103,7 +103,67 @@ namespace HelloWorld
 
 
 
+//Generics ACTIVITY :
+//---------------------------------------------------------------------------------------
 
+// 1.	Write 2 examples of generics
+
+// /class Box<T> {
+//     T value;
+
+//     void setValue(T value) {
+//         this.value = value;
+//     }
+
+//     T getValue() {
+//         return value;
+//     }
+// }
+
+// public class Main {
+//     public static void main(String[] args) {
+//         Box<Integer> intBox = new Box<>();
+//         intBox.setValue(10);
+
+//         Box<String> strBox = new Box<>();
+//         strBox.setValue("Hello");
+
+//         System.out.println(intBox.getValue());
+//         System.out.println(strBox.getValue());
+//     }
+// }
+
+// 2.	Real time use of generics 
+// Real-time use of Generics (Simple):**
+// Generics are used in real projects to store and manage data safely,
+// like in lists, APIs, and databases.
+// For example, in Java, `ArrayList<String>` ensures only strings are stored,
+// which helps avoid errors and makes code reusable.
+
+
+// // 3.	Why companies use generics
+// 1. Type Safety
+// Errors are caught at compile time
+// Avoids runtime crashes
+
+// 👉 Example:
+// Without generics → wrong data type may crash app
+// With generics → error shown immediately
+
+// 🚀 2. Code Reusability
+// One code works for multiple types
+// Reduces duplicate code
+
+// 👉 Instead of writing:
+
+// intBox, stringBox, floatBox
+// 👉 One Box<T> handles all
+// 🚀 3. Better Readability & Maintainability
+// Clean and structured code
+// Easy for teams to understand
+// 🚀 4. Performance Improvement
+// No need for type casting
+// Faster execution
 
 
 
