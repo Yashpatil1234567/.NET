@@ -1,0 +1,117 @@
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\appsettings.Development.json
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\appsettings.json
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\Final Project.staticwebassets.runtime.json
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\Final Project.staticwebassets.endpoints.json
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\Final Project.exe
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\Final Project.deps.json
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\Final Project.runtimeconfig.json
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\Final Project.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\Final Project.pdb
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Project.AssemblyInfoInputs.cache
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Project.AssemblyInfo.cs
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Project.csproj.CoreCompileInputs.cache
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Project.MvcApplicationPartsAssemblyInfo.cache
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Project.RazorAssemblyInfo.cache
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Project.RazorAssemblyInfo.cs
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Project.sourcelink.json
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\scopedcss\bundle\Final Project.styles.css
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\scopedcss\projectbundle\Final Project.bundle.scp.css
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\bo8v2wcm08-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\bx4r6iv9sx-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\c51d9epmq0-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\qt4i17bc46-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\u7sjkjjo9y-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\hob73a5kl2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\jxaa73lc4t-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\bzvnjidjus-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\t05lrnvqr1-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\u99dyvv07c-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\a9ev4u26fp-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\yn4ubuhjsk-{0}-ub07r2b239-ub07r2b239.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\5l3rfuyl95-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\oc6lmrgh79-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\hjn6ozvxv2-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\7hf4xpmlb2-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\awiu8w4cnn-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\2gylczbvui-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\cgb84nnc05-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\51a7kv3fa0-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\wxrptqcv6j-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\pfz06k3ye7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\7c8x5n97sa-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\x80pze7z72-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\s79c0f482p-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\j1iq4xa5xk-{0}-06098lyss8-06098lyss8.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\kttszzqrdv-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\8f49u53wdo-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\vfteefh4lz-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\gvz2wyfugx-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\s9p115qwet-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\3vvyeff6bn-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\podnisn498-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\1rzmnvhqhw-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\4ij0fczy0v-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\n6bf7dipg5-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\mc5dovbflg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\dse3nynko2-{0}-493y06b0oq-493y06b0oq.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\hye1d9uglp-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\iu199e5gx9-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\t4xonel798-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\xzcezzp02x-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\sq0vqfrext-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\h9v0hnqi7k-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\fk7m1uy0fd-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\66r0ckj9i6-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\qcupnjkua5-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\xu7etdy584-{0}-47otxtyo56-47otxtyo56.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\55b3stf1u2-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\evojaj8o0h-{0}-356vix0kms-356vix0kms.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\37h5yakm6z-{0}-83jwlth58m-83jwlth58m.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\e5vxa1psgq-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\920wj5bjqq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\yo3d9gjj78-{0}-ag7o75518u-ag7o75518u.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\alordwyg9l-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\lr2ly6bd6o-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\c4bkmzqebz-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\ktxinhzhu6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\5yx88zjlu7-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\0ef7u7pk5o-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\all37xb5sq-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\hxxctghw5h-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\oap8jd3nj7-{0}-qwgewy7fuy-qwgewy7fuy.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\compressed\ymh8g9z7f1-{0}-qwgewy7fuy-qwgewy7fuy.gz
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\staticwebassets.build.json
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\staticwebassets.development.json
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\swae.build.ex.cache
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Project.dll
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\refint\Final Project.dll
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Project.pdb
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Project.genruntimeconfig.cache
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\ref\Final Project.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\Google.Protobuf.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\K4os.Compression.LZ4.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\K4os.Compression.LZ4.Streams.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\K4os.Hash.xxHash.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\MySql.Data.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\System.Security.Permissions.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\System.Windows.Extensions.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\ZstdSharp.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\runtimes\win-x64\native\comerr64.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\runtimes\win-x64\native\gssapi64.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\runtimes\win-x64\native\k5sprt64.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\runtimes\win-x64\native\krb5_64.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\runtimes\win-x64\native\krbcc64.dll
+E:\ADN\ADN Work\.NET\Final Project\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Project.csproj.AssemblyReference.cache
+E:\ADN\ADN Work\.NET\Final Project\obj\Debug\net10.0\Final Pr.B69720BE.Up2Date
